@@ -1,0 +1,4 @@
+node_modules
+.DS_modules
+.tmp
+npm-debug.lolg
